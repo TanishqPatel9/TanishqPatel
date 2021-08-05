@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TanishqPatel9
+- 👀 I’m interested in CS
+- 🌱 I’m currently learning python,java
+- 📫 How to reach me through Discord Tanishq #9251
+- I am beginner in programming :(
